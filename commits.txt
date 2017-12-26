@@ -1,0 +1,17 @@
+commit ce898d07e5584b2e302320ab167c61b31419248d
+Author: Sam <eyrosam@gmail.com>
+Date:   Tue Dec 26 14:42:30 2017 -0600
+
+    Se quitaron logitipos de más, falta poner jpd de fb
+
+commit c6ba8bf1c981e5f58cc176e8da4e536a6020e595
+Author: Sam <eyrosam@gmail.com>
+Date:   Tue Dec 26 14:37:15 2017 -0600
+
+    Se puso el footer de manera correcta, falta llenarlo con información exacta
+
+commit 7a0fb588d108ad9e5c68072f73dbb84e421c5627
+Author: Sam <eyrosam@gmail.com>
+Date:   Tue Dec 26 14:10:43 2017 -0600
+
+    Iniciamos en el uso de commit en este proyecto de pruebas
