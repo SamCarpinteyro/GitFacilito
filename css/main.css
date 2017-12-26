@@ -1,0 +1,97 @@
+html { 
+	overflow-x:hidden; 
+}
+
+body{
+	font-family: 'Lato', sans-serif;
+	background-color: #F1C59E
+}
+
+img {
+	max-width: 100%;
+}
+
+.retraso{
+	-webkit-animation-delay: 2.2s;	
+	-moz-animation-delay: 2.2s;
+	animation-delay: 2.2s;
+}
+
+.retraso2{
+	-webkit-animation-delay: 1.5s;
+	-moz-animation-delay: 1.5s;
+	animation-delay: 1.5s;
+}
+
+a, .azul{
+	color: #DA022C
+}
+
+.quitar-float{
+	float: none;
+}
+
+.vete-arriba{
+	vertical-align: top;
+}
+.espacio-arriba{
+	margin-top: 100px;
+}	
+
+.pacifico{
+	font-family: 'Pacifico', cursive;
+}
+
+.grande{
+	font-size: 4em;
+}
+
+.mediano{
+	font-size: 2em;
+}
+
+.mediano-2{
+	font-size: 1.5em;
+}
+.guinda{
+	color: #710521
+}
+
+.claro{
+	color: #FFFFD6
+}
+
+.cafe{
+	color: #A6662F
+}
+
+.espacio-derecha{
+	margin-right: 1em;
+}
+
+.no-lista li{
+	list-style-type: none;
+}
+
+.no-lista{
+	margin: 0px;
+	padding: 0px;
+}
+
+.inLine-block{
+	float: none;
+	display: inline-block;
+	margin-right: -4px;
+}
+
+.se-colorLinea{
+	background-color: #C47838
+}
+
+.se-colorLetra{
+	color: #FFFFD6
+}
+
+.padding-largo{
+	padding: 5px 10px;
+}
