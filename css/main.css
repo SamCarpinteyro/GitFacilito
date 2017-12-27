@@ -1,10 +1,10 @@
-html { 
-	overflow-x:hidden; 
+html {
+	overflow-x:hidden;
 }
 
 body{
 	font-family: 'Lato', sans-serif;
-	background-color: #F1C59E
+	background-color: #34e380;
 }
 
 img {
@@ -12,7 +12,7 @@ img {
 }
 
 .retraso{
-	-webkit-animation-delay: 2.2s;	
+	-webkit-animation-delay: 2.2s;
 	-moz-animation-delay: 2.2s;
 	animation-delay: 2.2s;
 }
@@ -36,7 +36,7 @@ a, .azul{
 }
 .espacio-arriba{
 	margin-top: 100px;
-}	
+}
 
 .pacifico{
 	font-family: 'Pacifico', cursive;
