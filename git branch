@@ -1,0 +1,29 @@
+[33mcommit 7d15ef7de86dba62f14e2684c55909e264910aa7[m[33m ([m[1;36mHEAD -> [m[1;32mColores[m[33m)[m
+Author: Sam <eyrosam@gmail.com>
+Date:   Tue Dec 26 15:18:07 2017 -0600
+
+    Se cambio el color de fondo
+
+[33mcommit 7ca90b5eebcbcca27d8ff5437c4aa022969c519e[m[33m ([m[1;32mmaster[m[33m, [m[1;32mTest[m[33m)[m
+Author: Sam <eyrosam@gmail.com>
+Date:   Tue Dec 26 15:04:22 2017 -0600
+
+    Se agrego un logo, falta poner el logo en jpg
+
+[33mcommit ce898d07e5584b2e302320ab167c61b31419248d[m
+Author: Sam <eyrosam@gmail.com>
+Date:   Tue Dec 26 14:42:30 2017 -0600
+
+    Se quitaron logitipos de más, falta poner jpd de fb
+
+[33mcommit c6ba8bf1c981e5f58cc176e8da4e536a6020e595[m
+Author: Sam <eyrosam@gmail.com>
+Date:   Tue Dec 26 14:37:15 2017 -0600
+
+    Se puso el footer de manera correcta, falta llenarlo con información exacta
+
+[33mcommit 7a0fb588d108ad9e5c68072f73dbb84e421c5627[m
+Author: Sam <eyrosam@gmail.com>
+Date:   Tue Dec 26 14:10:43 2017 -0600
+
+    Iniciamos en el uso de commit en este proyecto de pruebas
